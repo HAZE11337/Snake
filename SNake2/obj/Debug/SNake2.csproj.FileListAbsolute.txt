@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\SNake2\SNake2\obj\Debug\SNake2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SNake2\SNake2\obj\Debug\SNake2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SNake2\SNake2\bin\Debug\SNake2.exe.config
+C:\Users\User\source\repos\SNake2\SNake2\bin\Debug\SNake2.exe
+C:\Users\User\source\repos\SNake2\SNake2\bin\Debug\SNake2.pdb
+C:\Users\User\source\repos\SNake2\SNake2\obj\Debug\SNake2.exe
+C:\Users\User\source\repos\SNake2\SNake2\obj\Debug\SNake2.pdb
